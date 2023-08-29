@@ -20,5 +20,6 @@ namespace DelegatorStudent32
         public override string ToString()
         {
             return Name + " " + Score;
+        }
     }
 }
